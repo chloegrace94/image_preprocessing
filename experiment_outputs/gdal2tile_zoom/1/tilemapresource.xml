@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>st5673_rgb_250_07.tif</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="-2.63475876292561" miny="51.45425975097181" maxx="-2.62024220693140" maxy="51.46332713731397"/>
+      <Origin x="-2.63475876292561" y="51.45425975097181"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="1" units-per-pixel="78271.51695000000473" order="1"/>
+      </TileSets>
+    </TileMap>
+    
